@@ -22,10 +22,13 @@ alias gs='git status'
 alias gl='git log --all --graph --decorate'
 
 # >>>>>>>>>>>>>>>>>>>> VARIABLES, BINDINGS, & SH. OPTIONS <<<<<<<<<<<<<<<<<<<< #
+
 export EDITOR='nvim'
 
 setopt histignorespace
 setopt autocd
+setopt cdablevars
+setopt correct
 
 bindkey \^U backward-kill-line
 
