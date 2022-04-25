@@ -20,6 +20,7 @@ alias nn='nvim'
 alias n='nnn -e'
 alias gs='git status'
 alias gl='git log --all --graph --decorate'
+alias jj='>/dev/null j'
 
 # >>>>>>>>>>>>>>>>>>>> VARIABLES, BINDINGS, & SH. OPTIONS <<<<<<<<<<<<<<<<<<<< #
 
