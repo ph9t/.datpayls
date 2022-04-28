@@ -11,8 +11,10 @@ fi
 # >>>>>>>>>>>>>>>>>>>>>>> COMMAND && DIRECTORY ALIASES <<<<<<<<<<<<<<<<<<<<<<< #
 
 # command
+alias czsh='vim ~/.zshrc'
 alias ll='ls -hlG'
 alias la='ls -ahlG'
+alias ls='ls -G'
 alias rm='rm -i'
 alias rm='rm -rfI'
 alias vim='nvim'
